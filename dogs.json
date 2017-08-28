@@ -1,0 +1,23 @@
+{
+	"dogs": [{
+			"name": "Old Yeller",
+			"color": "Green",
+			"url": "http://www.petmd.com/sites/default/files/kneecap-dislocation-dogs.jpg"
+		},
+		{
+			"name": "Lassie",
+			"color": "moreGreen",
+			"url": "https://i.kinja-img.com/gawker-media/image/upload/s--kx3d-Wgg--/c_scale,fl_progressive,q_80,w_800/ol9ceoqxidudap8owlwn.jpg"
+		},
+		{
+			"name": "Coojo",
+			"color": "mostGreen",
+			"url": "http://r.ddmcdn.com/w_830/s_f/o_1/cx_0/cy_220/cw_1255/ch_1255/APL/uploads/2014/11/dog-breed-selector-australian-shepherd.jpg"
+		},
+		{
+			"name": "Air Bud",
+			"color": "kindaGreen",
+			"url": "http://i.huffpost.com/gen/3754046/original.jpg"
+		}
+	]
+}
